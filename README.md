@@ -8,7 +8,7 @@ The plane will either escape or crash — its in-game destiny remains the same. 
 
 When we say the use of the Aviator bot AI is as simple as ABC, we really mean it:
 
-1. Go to the official Aviator Predictor app at aviatorpredictions.in.
+1. Go to the official [Aviator Predictor](https://aviatorpredictions.in)
 2. Download the app. If the process doesn’t start automatically, please ensure your device allows download and installation from unknown resources.
 3. Run the app and sign up for the brand’s services. Fill in the form and authorize your membership.
 4. Check the list of recommended websites and register on one of the approved online casinos. Make sure to copy a unique ID you receive when you complete registration there.
