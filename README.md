@@ -69,4 +69,4 @@ Yes, the Aviator Predictor complies with industry security standards and uses th
 
 ---
 
-Take your Aviator gaming experience to the next level with the Aviator Predictor bot! Download and install it today for more accurate and profitable results.
+Take your Aviator gaming experience to the next level with the Aviator Predictor bot! Download and install it today
